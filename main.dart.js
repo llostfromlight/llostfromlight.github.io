@@ -56211,7 +56211,7 @@ A.a_G.prototype={
 $0(){var s=this.a
 switch(s.r){case 1:s.d=new A.l3("","We have free plan for the special client like you would like to try it ?",A.om(s.a.c*0.65,"images/special.jpg"))
 break
-case 2:s.d=new A.l3("","Do you prefer structured problem-solving over open-ended exploration?",A.om(s.a.c*0.65,"images/.jpg"))
+case 2:s.d=new A.l3("","Do you prefer structured problem-solving over open-ended exploration?",A.om(s.a.c*0.65,"images/first.jpg"))
 break}},
 $S:0}
 A.a_I.prototype={
@@ -56236,7 +56236,7 @@ case 1:s===$&&A.a()
 s.c=A.om(q,"images/special.jpg")
 break
 case 2:s===$&&A.a()
-s.c=A.om(q,"images/.jpg")
+s.c=A.om(q,"images/first.jpg")
 break
 default:s===$&&A.a()
 s.c=A.om(q,"images/"+s.a+".jpg")}},
